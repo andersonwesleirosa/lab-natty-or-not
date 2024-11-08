@@ -41,7 +41,7 @@ Para conclusão do trabalho, utilizei o Microsoft Winword.
 O e-book apresenta um conteúdo divertido e colorido, a fim de envolver as crianças nesse grande universo que é a música.
 
 ## 💭 Reflexão (Opcional)
-Criar este e-book foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
+Criar este e-book foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos..
 ```
 
 ### Exemplos e Insigths
