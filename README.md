@@ -44,11 +44,9 @@ O e-book apresenta um conteúdo divertido e colorido, a fim de envolver as crian
 Criar este e-book foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos..
 ```
 
-### Exemplos e Insigths
+### Exemplos
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+- (https://github.com/andersonwesleirosa/lab-natty-or-not/blob/main/README.md)
 
 ## Links Interessantes
 
